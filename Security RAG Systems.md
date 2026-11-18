@@ -8,18 +8,6 @@ This approach improves accuracy, reduces hallucinations, and enables security te
 
 ---
 
-## Learning Objectives
-
-After completing this topic, you should be able to:
-
-- Understand the fundamentals of Retrieval-Augmented Generation (RAG)
-- Explain the role of security knowledge bases
-- Understand threat intelligence retrieval workflows
-- Describe context-aware investigation capabilities
-- Identify enterprise use cases for security assistants
-
----
-
 # 1. Retrieval-Augmented Generation (RAG)
 
 ## What is RAG?
